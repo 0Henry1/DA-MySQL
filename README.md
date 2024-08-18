@@ -1,1 +1,1 @@
-# DA-MySQL
+Data Analytics using MySQL
